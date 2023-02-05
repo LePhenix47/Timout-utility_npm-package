@@ -1,5 +1,5 @@
 {
-  "name": "timers-utility",
+  "name": "@lephenix47/timers-utility",
   "version": "1.0.0",
   "description": "A simpler way to create timeouts",
   "main": "index.js",
