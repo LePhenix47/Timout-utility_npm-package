@@ -1,1 +1,1 @@
-export { TimeoutService } from "./classes/interval-service.class";
+export { TimeoutService } from "./classes/timeout-service.class";
