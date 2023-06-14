@@ -1,12 +1,12 @@
 {
   "name": "@lephenix47/timers-utility",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simpler way to create timeouts",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "ts-cmd": "rmdir /s /q  lib && tsc && tsc --build tsconfig.es5.json",
-    "ts-bash": "rm -rf ./ lib && tsc && tsc --build tsconfig.es5.json",
+    "ts-cmd": "rmdir /s /q  lib && tsc && tsc --build",
+    "ts-bash": "rm -rf ./ lib && tsc && tsc --build",
     "publish": "npm publish --access=public"
   },
   "repository": {

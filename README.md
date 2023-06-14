@@ -1,4 +1,6 @@
-# @lephenix47/
+# @lephenix47/timers-utility
+
+## Introduction
 
 ## Table of Contents
 
@@ -9,7 +11,7 @@
     - [Importing the Library](#importing-the-library)
   - [Conclusion](#conclusion)
 
-## Introduction
+
 
 ## Usage
 
