@@ -8,7 +8,7 @@
     "ts-cmd": "rmdir /s /q lib && tsc && tsc --build",
     "ts-bash": "rm -rf ./lib && tsc && tsc --build",
     "publish": "npm publish --access=public",
-    "push": "git push && npm run publish"
+    "git:push": "git push && npm run publish"
   },
   "repository": {
     "type": "git",
