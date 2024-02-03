@@ -1,1 +1,2 @@
-export { TimeoutService } from "./classes/timeout-service.class";
+import Timer from "./classes/timeout-service.class";
+export { Timer };
