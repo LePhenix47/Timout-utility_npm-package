@@ -4,6 +4,18 @@
   "description": "A simpler way to create timeouts",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "exports": {
+    ".": "./lib/index.js",
+    "./lib": "./lib/index.js",
+    "./classes": "./lib/classes/timeout-service.class.js"
+  },
+  "typesVersion": {
+    "*": {
+      "*": [
+        "types"
+      ]
+    }
+  },
   "scripts": {
     "ts-cmd": "rmdir /s /q lib && tsc && tsc --build",
     "ts-bash": "rm -rf ./lib && tsc && tsc --build",

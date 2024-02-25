@@ -1,3 +1,1 @@
-import Timer from "./classes/timeout-service.class";
-
-export { Timer };
+export { default as Timer } from "./classes/timeout-service.class";
