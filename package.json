@@ -1,6 +1,6 @@
 {
   "name": "@lephenix47/timers-utility",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A simpler way to create timeouts",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
